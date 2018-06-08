@@ -1,1 +1,1 @@
-# AIhackInMinecraft.github.io
+# IhackInMinecraft.github.io
